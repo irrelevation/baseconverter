@@ -5,7 +5,9 @@ Convert any string from one set of characters to another set of characters;
 
 ## Call
 
-`convert(string, base_of_string, base_of_output);// returns the converted string`
+`convert(string, base_of_string, base_of_output);`
+
+This returns the converted string.
 
 * `string` is the string you want to convert.
 * `base_of_string` is a string containing the characters `string` is based on.

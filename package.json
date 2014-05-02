@@ -4,10 +4,15 @@
 	"author": "Lukas Zöllner <lz@datenfreunde.com>",
 	"description": "convert a string from one set of characters to another",
 	"main": "./",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/irrelevation/baseconverter.git"
+	},
 	"keywords": [
 		"converter",
 		"base"
 	],
+	"license": "MIT",
 	"engines": {
 		"node": ">=0.10.24"
 	}
