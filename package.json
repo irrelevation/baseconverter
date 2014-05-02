@@ -1,0 +1,14 @@
+{
+	"name": "baseconverter",
+	"version": "0.1.0",
+	"author": "Lukas Zöllner <lz@datenfreunde.com>",
+	"description": "convert a string from one set of characters to another",
+	"main": "./",
+	"keywords": [
+		"converter",
+		"base"
+	],
+	"engines": {
+		"node": ">=0.10.24"
+	}
+}
